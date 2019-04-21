@@ -21,3 +21,5 @@ https://thereelrant.com/the-reel-rant?format=rss
 https://thereelrant.com/the-reel-rant?format=rss
 https://anchor.fm/s/2e8dd28/podcast/rss
 https://feed.podbean.com/btswwp/feed.xml
+http://feeds.feedburner.com/SneakyDragon
+http://thehatelocker.libsyn.com/rss
