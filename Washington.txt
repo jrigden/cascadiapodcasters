@@ -24,3 +24,16 @@ https://preheated.podbean.com/feed.xml
 https://thestorieswetell.libsyn.com/rss
 https://ontheedgepodcast.podbean.com/feed.xml
 http://thebistanderpodcast.libsyn.com/rss
+https://www.channel253.com/feed/podcast
+https://feeds.buzzsprout.com/239717.rss
+http://src.wastateleg.org/feed/podcast
+https://feed.podbean.com/survivingparalysis/feed.xml
+http://feeds.soundcloud.com/users/soundcloud:users:322595831/sounds.rss
+http://www.olympiapoprocks.com/podcasts?format=rss
+https://awcities.podbean.com/feed.xml
+https://anchor.fm/s/a512854/podcast/rss
+http://oldheartradio.libsyn.com/rss
+https://anchor.fm/s/8c0f528/podcast/rss
+http://feeds.soundcloud.com/users/soundcloud:users:392980998/sounds.rss
+http://feeds.soundcloud.com/users/soundcloud:users:394223712/sounds.rss
+https://sparkscience.podbean.com/feed.xml
