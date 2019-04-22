@@ -1,8 +1,10 @@
 
 https://moviebabies.squarespace.com/podcast/?format=rss
 http://www.pilothousepodcast.com/feed/podcast/
+http://feeds.feedburner.com/PacificBeerChat
 https://feed.podbean.com/ultra64podcast/feed.xml
 http://nakedbiblepodcast.com/feed/podcast
+https://feed.podbean.com/podcastjunkie/feed.xml
 https://topoftheround.libsyn.com/rss
 https://feed.podbean.com/mattshea/feed.xml
 https://feeds.fireside.fm/gritcity/rss
