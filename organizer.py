@@ -17,7 +17,7 @@ def clean_file(file_path):
                 f.write("\n")
 
 
-locations = ['Washington']
+locations = ['Washington', 'BritishColumbia', 'Oregon']
 for location in locations:
     file_path = data_path = os.path.join(os.getcwd(), 'data', location)
     clean_file(file_path)
